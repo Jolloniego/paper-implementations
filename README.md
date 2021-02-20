@@ -8,5 +8,5 @@ Minimalist implementation of Deep Learning research papers in Jupyter notebook f
 
 ### 2) Auxiliary Classifier GAN - [__[Paper]__](https://arxiv.org/abs/1610.09585.pdf) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/AC_GAN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/AC_GAN.ipynb)
 
-### 3) Pix2Pix GAN - [__[Paper]__](https://arxiv.org/abs/1610.09585) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/Pix2Pix_GAN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/Pix2Pix_GAN.ipynb)
+### 3) Pix2Pix GAN - [__[Paper]__](https://arxiv.org/abs/1611.07004) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/Pix2Pix_GAN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/Pix2Pix_GAN.ipynb)
 
