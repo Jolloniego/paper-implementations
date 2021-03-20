@@ -10,3 +10,4 @@ Minimalist implementation of Deep Learning research papers in Jupyter notebook f
 
 ### 3) Pix2Pix GAN - [__[Paper]__](https://arxiv.org/abs/1611.07004) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/Pix2Pix_GAN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/Pix2Pix_GAN.ipynb)
 
+### 4) UNet Semantic Segmentation - [__[Paper]__](https://arxiv.org/abs/1505.04597) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/UNet_Segmentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/UNet_Segmentation.ipynb)
