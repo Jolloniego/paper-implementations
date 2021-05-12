@@ -2,6 +2,8 @@
 
 Minimalist implementation of Deep Learning research papers in Jupyter notebook format for easy viewing. All papers were implemented in Colab (due to GPU availability) and can be opened directly with no google account required. 
 
+The goal of the repo is to provide simple and self-contained implemantations of different papers, allowing model creation, training and inference from Google Colab in reasonable time. This some times means using different data to avoid computation and memory limits but the code could be used on any dataset when given enough resources.
+
 ***
 
 ### 1) Simple GAN - [__[Paper]__](https://arxiv.org/abs/1406.2661) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/GAN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/GAN.ipynb)
