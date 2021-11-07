@@ -21,3 +21,7 @@ The goal of the repo is to provide simple and self-contained implemantations of 
 ### 7) FCN Semantic Segmentation - [__[Paper]__](https://arxiv.org/abs/1411.4038.pdf) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/FCNet_Segmentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/FCNet_Segmentation.ipynb)
 
 ### 8) Vision Transformer for classification - [__[Paper]__](https://arxiv.org/abs/2010.11929.pdf) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/ViT_Scenes.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/ViT_Scenes.ipynb)
+
+### 9) EfficientNets for classification - [__[Paper]__](https://arxiv.org/abs/1905.11946.pdf) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/EfficientNets.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/EfficientNets.ipynb)
+
+
