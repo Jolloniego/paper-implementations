@@ -24,4 +24,5 @@ The goal of the repo is to provide simple and self-contained implemantations of 
 
 ### 9) EfficientNets for classification - [__[Paper]__](https://arxiv.org/abs/1905.11946.pdf) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/EfficientNets.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/EfficientNets.ipynb)
 
+### 10) RetinaNet for Object Detection - [__[Paper]__](https://arxiv.org/abs/1708.02002.pdf) -  [__[Code]__](https://github.com/Jolloniego/paper-implementations/blob/main/notebooks/RetinaNet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jolloniego/paper-implementations/blob/main/notebooks/RetinaNet.ipynb)
 
